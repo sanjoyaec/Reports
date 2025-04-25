@@ -1,0 +1,1 @@
+select invoice_num from ap_invoices_all where INVOICE_TYPE_LOOKUP_CODE='STANDARD'
